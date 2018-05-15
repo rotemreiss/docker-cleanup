@@ -32,3 +32,6 @@ The script was only tested on Boot2Docker at this stage.
 This was written by mixing some online resources and examples.
 I also want to thank all those who pushed for Docker's native support in
 the dangling filter.
+
+Credits for those I remember: :)
+- https://gist.github.com/bastman/5b57ddb3c11942094f8d0a97d461b430
